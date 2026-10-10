@@ -1,0 +1,5 @@
+modelsim
+rtl
+**/__pycache__
+.venv
+out
